@@ -1,6 +1,6 @@
 # ColorPickerWheel
 
-customized ColorWheel Developed to Provide the Correct Red, Green and Blue Color Combination on Drag.
+Customized ColorPickerWheel to Provide the Correct Red, Green and Blue Color Values.
 Use ColorPickerWheel Using the UIView from Xcode.
 
 # Steps How to Use: 
